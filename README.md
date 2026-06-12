@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-eyes-fall-deep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Close Eyes Fall Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-eyes-fall-deep/) |
+| **Get License** | [Secure Licensing Rights for Close Eyes Fall Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-eyes-fall-deep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7dabb8865b9dd9fcf6f5890c99095a66dcb0d7fb658572e2e06391af51b8bea6` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
