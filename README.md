@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-eyes-fall-deep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Close Eyes Fall Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-eyes-fall-deep/) |
+| **Get License** | [Official Music Licensing for Close Eyes Fall Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-eyes-fall-deep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Close your eyes and fall into the deep,
+> Where the waking world is fast asleep.
+> I can feel your pulse against my skin,
+> This is exactly where we both begin.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
